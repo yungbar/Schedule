@@ -1,0 +1,140 @@
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe.config
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.pdb
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.dll
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.dll
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.xml
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.xml
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csprojAssemblyReference.cache
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.g.cs
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.g.cs
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\MainWindow.g.cs
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\App.g.cs
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_Content.g.cs
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.cache
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.lref
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.baml
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.baml
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\MainWindow.baml
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.g.resources
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.Properties.Resources.resources
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.GenerateResource.cache
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CoreCompileInputs.cache
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CopyComplete
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.exe
+D:\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.pdb
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csprojAssemblyReference.cache
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.g.cs
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.g.cs
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\MainWindow.g.cs
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\App.g.cs
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_Content.g.cs
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.cache
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.lref
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.exe
+\\44-12\d\4IS3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.pdb
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csprojAssemblyReference.cache
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.g.cs
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.g.cs
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\App.g.cs
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_Content.g.cs
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.cache
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.lref
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.exe
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.pdb
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.g.cs
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe.config
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.pdb
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.dll
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.xml
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.baml
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.baml
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.baml
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.g.resources
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.Properties.Resources.resources
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.GenerateResource.cache
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CoreCompileInputs.cache
+D:\4ИС3\Чернов С\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CopyComplete
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.g.cs
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.g.cs
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.g.cs
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\App.g.cs
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_Content.g.cs
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.cache
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.lref
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.exe
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.pdb
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe.config
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.pdb
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.dll
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.dll
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.xml
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.baml
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.baml
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.baml
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.g.resources
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.Properties.Resources.resources
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.GenerateResource.cache
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CoreCompileInputs.cache
+D:\4is3\Chernov\SchedulePlan\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CopyComplete
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe.config
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.pdb
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.g.cs
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.g.cs
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.g.cs
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\App.g.cs
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_Content.g.cs
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.cache
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.lref
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.baml
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.baml
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.baml
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.g.resources
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.Properties.Resources.resources
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CopyComplete
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.exe
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.pdb
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe.config
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.exe
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\SchedulePlan.pdb
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.g.cs
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.g.cs
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.g.cs
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_Content.g.cs
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.cache
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan_MarkupCompile.lref
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\AccountingWindow.baml
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\Auth.baml
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\MainWindow.baml
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.g.resources
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.Properties.Resources.resources
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.csproj.CopyComplete
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.exe
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\SchedulePlan.pdb
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\Reg.g.cs
+C:\Users\user\Desktop\Курсач2\SchedulePlan\SchedulePlan\obj\Debug\Base\Reg.baml
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\Reg.g.cs
+C:\Users\user\Desktop\SchedulePlan\SchedulePlan\obj\Debug\Base\Reg.baml
